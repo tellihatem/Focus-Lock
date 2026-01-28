@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Focus-Lock: Earn Your Playtime
+# 🎮 Focus Lock: Earn Your Playtime
 
 **A gamified productivity app that helps you earn your gaming time by completing tasks first.**
 
