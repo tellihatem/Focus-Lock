@@ -148,7 +148,6 @@ interface Task {
 
 ## Development Rules
 
-See `.windsurf/rules/rules.md` for comprehensive development guidelines including:
 - Security requirements
 - Code style standards
 - UI/UX rules
